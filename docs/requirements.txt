@@ -1,0 +1,2 @@
+sphinx
+lumache  # 만약 lumache가 pip로 설치 가능한 패키지라면 적지만, 파일 하나라면 굳이 안 적어도 됩니다.sphinx
